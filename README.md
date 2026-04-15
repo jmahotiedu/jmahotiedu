@@ -1,8 +1,8 @@
 # Jared Mahotiere
 
-**Software Engineer** | .NET -- Full-Stack -- Data Engineering -- Embedded Systems
+Computer engineering technology student at Purdue building across .NET industrial automation software, data pipelines, embedded firmware, and full-stack systems.
 
-Two summers at **Nucor Corporation** (production .NET/Blazor services, dual-database Level 2 systems, steel manufacturing automation).
+Two summers at **Nucor Corporation** (production .NET/Blazor services, dual-database industrial systems, steel manufacturing automation).
 Graduating **Purdue University** (B.S. EET, Computer Engineering Technology) -- **May 2026, available for full-time**.
 
 ---
@@ -14,7 +14,7 @@ Graduating **Purdue University** (B.S. EET, Computer Engineering Technology) -- 
 | **.NET / Full-Stack** | C#, ASP.NET Core, Blazor, SQL Server, TypeScript, React |
 | **Data Engineering** | Kafka, PySpark, Airflow, XGBoost, FastAPI, AWS (MSK/ECS/RDS) |
 | **Systems** | C (Redis-like cache, RESP protocol), Python interpreter, DAG orchestrator |
-| **Embedded** | ESP32, FreeRTOS, UART/I2C/SPI, DSP, industrial controls |
+| **Embedded** | ESP32, FreeRTOS, UART/I2C, DSP, industrial controls |
 
 ---
 
